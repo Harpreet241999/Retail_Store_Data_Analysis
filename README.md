@@ -42,8 +42,3 @@ Recommendation: Benchmark these stores’ operating practices, customer service 
 Customers with more than 10 previous purchases consistently spend more on new transactions compared to customers with fewer past visits.
 Recommendation: Increase focus on loyalty programs, personalized offers, and VIP perks to nurture high-value customers and encourage repeat buying behavior.
 
-
-
-Customers with more than 10 previous purchases consistently spend more on new transactions compared to customers with fewer past visits.
-
-Recommendation: Increase focus on loyalty programs, personalized offers, and VIP perks to nurture high-value customers and encourage repeat buying behavior.
