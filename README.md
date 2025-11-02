@@ -28,17 +28,20 @@ Fall: Yellow / Magenta
 Recommendation: Add seasonal color variants for top-selling categories to maximize conversions.
 
 5. Stocking Should Vary by Location
+
 Location-based customer mix reveals notable differences.
 Montana, for example, has the largest customer base, with male customers dominating in most regions.
 Recommendation: Adopt region-specific assortment planning rather than one national allocation model.
 
 6. Top Locations for Customer Experience
+
 Locations such as Illinois, Alabama, and Montana demonstrate:
 Higher average customer review ratings
 Stronger repeat visit (loyalty) activity
 Recommendation: Benchmark these stores’ operating practices, customer service routines, and merchandising layouts to improve underperforming locations.
 
 7. Repeat Shopping Behavior Drives Revenue
+
 Customers with more than 10 previous purchases consistently spend more on new transactions compared to customers with fewer past visits.
 Recommendation: Increase focus on loyalty programs, personalized offers, and VIP perks to nurture high-value customers and encourage repeat buying behavior.
 
